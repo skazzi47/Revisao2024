@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guilherme\\ProjetosC#\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj": {}
+    "C:\\Users\\Guilherme\\Repositórios GitHub\\Revisao2024\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guilherme\\ProjetosC#\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj": {
+    "C:\\Users\\Guilherme\\Repositórios GitHub\\Revisao2024\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guilherme\\ProjetosC#\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme\\Repositórios GitHub\\Revisao2024\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj",
         "projectName": "GeradorDeSenhasSeguras",
-        "projectPath": "C:\\Users\\Guilherme\\ProjetosC#\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj",
+        "projectPath": "C:\\Users\\Guilherme\\Repositórios GitHub\\Revisao2024\\GeradorDeSenhasSeguras\\GeradorDeSenhasSeguras.csproj",
         "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guilherme\\ProjetosC#\\GeradorDeSenhasSeguras\\obj\\",
+        "outputPath": "C:\\Users\\Guilherme\\Repositórios GitHub\\Revisao2024\\GeradorDeSenhasSeguras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config"

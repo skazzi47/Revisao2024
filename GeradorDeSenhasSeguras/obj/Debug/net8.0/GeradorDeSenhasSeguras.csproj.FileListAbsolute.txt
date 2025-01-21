@@ -12,3 +12,18 @@ C:\Users\Guilherme\ProjetosC#\GeradorDeSenhasSeguras\obj\Debug\net8.0\refint\Ger
 C:\Users\Guilherme\ProjetosC#\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.pdb
 C:\Users\Guilherme\ProjetosC#\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.genruntimeconfig.cache
 C:\Users\Guilherme\ProjetosC#\GeradorDeSenhasSeguras\obj\Debug\net8.0\ref\GeradorDeSenhasSeguras.dll
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\bin\Debug\net8.0\GeradorDeSenhasSeguras.exe
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\bin\Debug\net8.0\GeradorDeSenhasSeguras.deps.json
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\bin\Debug\net8.0\GeradorDeSenhasSeguras.runtimeconfig.json
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\bin\Debug\net8.0\GeradorDeSenhasSeguras.dll
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\bin\Debug\net8.0\GeradorDeSenhasSeguras.pdb
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.AssemblyInfo.cs
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.sourcelink.json
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.dll
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\refint\GeradorDeSenhasSeguras.dll
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.pdb
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\GeradorDeSenhasSeguras.genruntimeconfig.cache
+C:\Users\Guilherme\Repositórios GitHub\Revisao2024\GeradorDeSenhasSeguras\obj\Debug\net8.0\ref\GeradorDeSenhasSeguras.dll
